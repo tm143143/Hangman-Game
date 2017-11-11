@@ -1,0 +1,77 @@
+
+body {
+	background-color: #BEBEBE;
+	text-align: center;
+	font-size: 70px;
+	font-family: Stencil Std, fantasy;
+
+}
+
+img {
+	height: 166px;
+	width: 54%;
+	border: 3px solid red;
+	border-radius: 50%
+}
+
+header {
+	border: 3px solid red;
+	font-size: 15px;
+	margin: 0 auto;
+	width: 50%;
+	height: 50px;
+	text-align: center;
+	background: grey;
+
+
+}  
+.pressAnyKeyToStart {
+	border: 3px solid red;
+	font-size: 15px;
+	margin: 0 auto;
+	width: 50%;
+	height: 50px;
+	text-align: center;
+	background: grey;
+}
+
+.underscores {
+	border: 3px solid red;
+	font-size: 15px;
+	margin: 0 auto;
+	width: 50%;
+	height: 50px;
+	text-align: center;
+	background: grey;
+
+}
+
+.Wins {
+	border: 3px solid red;
+	font-size: 15px;
+	margin: 0 auto;
+	width: 50%;
+	height: 50px;
+	text-align: center;
+	background: grey;
+}
+
+.numberOfGuessesRemaining {
+	border: 3px solid red;
+	font-size: 15px;
+	margin: 0 auto;
+	width: 50%;
+	height: 50px;
+	text-align: center;
+	background: grey;
+}
+
+.LettersAlreadyGuessed {
+	border: 3px solid red;
+	font-size: 15px;
+	margin: 0 auto;
+	width: 50%;
+	height: 50px;
+	text-align: center;
+	background: grey;
+}
